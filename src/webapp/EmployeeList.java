@@ -7,4 +7,10 @@ public class EmployeeList {
 
 
     //employee salary
+
+
+    //adding employee discount
+
+    //35% off
+
 }

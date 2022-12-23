@@ -4,4 +4,7 @@ public class EmployeeList {
     //enter employee list
     //
 
+
+
+    //employee salary
 }

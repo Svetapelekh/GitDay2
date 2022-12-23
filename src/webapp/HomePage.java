@@ -7,4 +7,6 @@ public class HomePage {
     // nav menu
 
     // more thing to added
+
+    //add footer
 }
